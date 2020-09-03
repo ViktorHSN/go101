@@ -1,0 +1,6 @@
+0.49s   13375 http://www.google.com
+1.43s  746562 http://www.globo.com.br
+2.57s   42297 http://www.twitter.com
+0.54s   13374 http://www.google.com
+1.45s  746562 http://www.globo.com.br
+2.61s   42296 http://www.twitter.com
